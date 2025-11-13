@@ -7,5 +7,4 @@ function ujDivHozzaad() {
     const container = document.getElementById("container"); 
     container.append(ujDiv)
     szamlalo=szamlalo+1
-    
 }
